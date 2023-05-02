@@ -1,14 +1,9 @@
 # CheckPoint 2 - Edge Computing
 
-# Integrantes do Grupo: 
-Ana Laura Zerlin					RM98065
-Bianca Carvalho Dancs				RM551645
-Gabriel Machado Pimentel			RM99880
-Hellen Ramos Assis				    RM98284
 
 # Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Título e Imagem de capa](#Vinheria-Agnello)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
@@ -17,3 +12,11 @@ Hellen Ramos Assis				    RM98284
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
+
+![VINHERIA AGNELLO](https://user-images.githubusercontent.com/126582480/235809301-a8fc2610-6d99-4d92-b58c-590096e56c1d.png)
+
+# Pessoas Desenvolvedoras do Projeto
+Ana Laura Zerlin					RM98065
+Bianca Carvalho Dancs				RM551645
+Gabriel Machado Pimentel			RM99880
+Hellen Ramos Assis				    RM98284
