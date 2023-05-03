@@ -1,6 +1,6 @@
 # Vinheria-Agnello
-* CheckPoint 2 - Edge Computing
 ![VINHERIA AGNELLO](https://user-images.githubusercontent.com/126582480/235809301-a8fc2610-6d99-4d92-b58c-590096e56c1d.png)
+* CheckPoint 2 - Edge Computing
 # Índice 
 * [Título e Imagem de capa](#Vinheria-Agnello)
 * [Índice](#índice)
