@@ -1,13 +1,13 @@
-# Vinheria-Agnello-CP2-EdgeComputing
-![VINHERIA AGNELLO](https://user-images.githubusercontent.com/126582480/235809301-a8fc2610-6d99-4d92-b58c-590096e56c1d.png)
+# Sabor-Solidário-GS-EdgeComputing
+![Sabor Solidário]()
 
 # Índice 
-* [Título e Imagem de capa](#Vinheria-Agnello-CP2-EdgeComputing)
+* [Título e Imagem de capa](#Sabor-Solidário-GS-EdgeComputing)
 * [Índice](#índice)
 * [Descrição do Projeto](#Descrição-do-Projeto)
 * [Acesso ao Projeto](#Acesso-ao-Projeto)
 * [Tecnologias utilizadas](#Tecnologias-Utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#Pessoas-Desenvolvedoras)
+* [Pessoas Desenvolvedoras do Projeto](#Pessoas-Desenvolvedoras-do-Projeto)
 * [Conclusão](#Conclusão)
 
 # Descrição-do-Projeto
@@ -15,21 +15,19 @@ O seguinte projeto foi elaborado com o intuito de ajudar a Vinheria Agnello a mo
 
 # Acesso-ao-Projeto
 O projeto pode ser visualizado através da plataforma Tinkercad:
-https://www.tinkercad.com/things/2hYy0Uv42OZ?sharecode=14s2l9BCQXfQqcMtC_E54yn1Z8ekea_XO--yBbYU3EA
+https://www.tinkercad.com/things/bBN9ucruSXv
 
 # Tecnologias-Utilizadas
 * Arduíno Uno
 * Display LCD - 16x2
 * Cabos Jumpers
-* Buzzer
-* Leds coloridos
-* Sensor de luminosidade LDR
-* Sensor de temperatura e umidade DHT11
+* Teclado Matricial de Membrana 4x4
+* Sensor de Força (FSR402)
 * Resistores
 * Protoboard
 
-# Pessoas-Desenvolvedoras
-* Ana Laura Zerlin					RM98065
+# Pessoas-Desenvolvedoras-do-Projeto
+* Ana Laura Zerlin					    RM98065
 * Bianca Carvalho Dancs					RM551645
 * Gabriel Machado Pimentel				RM99880
 * Hellen Ramos Assis					RM98284
