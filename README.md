@@ -11,7 +11,7 @@
 * [Conclusão](#Conclusão)
 
 # Descrição-do-Projeto
-O seguinte projeto foi elaborado com o intuito de ajudar a Vinheria Agnello a monitorar o armazenamento de seus vinhos. Com isso, pensamos em um dispositivo feito com Arduíno que é capaz de medir a luminosidade, a temperatura e umidade do ambiente. O dispositivo ainda está na fase de prototipação, mas já contém elementos como, por exemplo, um display para auxiliar o entendimento dos dados, Leds coloridos para indicar se as condições estão adequadas, além de um buzzer para alertar o proprietário caso o armazenamento esteja sendo comprometido. 
+O seguinte projeto foi elaborado com o intuito de ajudar a situação de milhares de pessoas do planeta. Sabe-se que milhões de pessoas passam fome no mundo, pensando nisso foi pensado em um projeto que redirecionará alimentos que seriam desperdiçados para pessoas que estão passanod por necessidades. Em parceria com a Microsoft, Heinz e a ONG caça-fome, foi desenvolvido um dispositivo em que a pessoa digita seu peso, em quilos, no teclado matricial e então é feita uma conversão de quantas gramas a porção de aimento deste indivíduo terá. Após informar o peso da porção para a pessoa, será feita a pesagem das porções por meio de um sensor de força FSR402, que apesar de não ser tão preciso quanto uma célula de carga, funciona de forma semelhante. Importante ressaltar que todas essas informações aparecerão para o indivíduo pelo display. 
 
 # Acesso-ao-Projeto
 O projeto pode ser visualizado através da plataforma Tinkercad:
@@ -33,4 +33,4 @@ https://www.tinkercad.com/things/bBN9ucruSXv
 * Hellen Ramos Assis					RM98284
 
 # Conclusão
-Conclui-se, portanto, que com este dispositivo, o armazenamento dos vinhos da Vinheria Agnello será mais facilmente monitorado e avaliado com mais precisão, conseguindo alcançar uma melhoria na qualidade dos produtos. Vale ressaltar que, com o passar do tempo, o dispositivo pode obter melhorias e novas funcionalidades.
+Conclui-se, portanto, que com este dispositivo, o manejo equitativo das porções dadas à população necessitada será mais facilmente monitorado e avaliado com mais precisão, conseguindo alcançar uma melhoria na qualidade de vida das pessoas da cidade de São Paulo, e futuramente do mundo. Vale ressaltar que, com o passar do tempo, o dispositivo pode obter melhorias e novas funcionalidades.
