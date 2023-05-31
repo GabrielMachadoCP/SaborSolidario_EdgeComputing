@@ -1,5 +1,5 @@
 # Sabor-Solidário-GS-EdgeComputing
-![Sabor Solidário]()
+![Sabor Solidário](https://github.com/GabrielMachadoCP/GS_EdgeComputing/blob/main/Sabor%20Solid%C3%A1rio.png?raw=true)
 
 # Índice 
 * [Título e Imagem de capa](#Sabor-Solidário-GS-EdgeComputing)
